@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://tylerpalko.github.io/</loc>
+  <lastmod>2022-12-15T01:01:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/2048/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/chromedino/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/cookieclicker/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/flappybird/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/retrobowl/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/slope/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/tetris/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/thereisnogame/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/tunnelrush/</loc>
+  <lastmod>2022-12-14T22:33:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tylerpalko.github.io/gamehub/webretro/</loc>
+  <lastmod>2022-12-14T22:33:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
